@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>david-leveque-bX7SWwzJqE4-unsplash.jpg</filename>
+    <size>
+        <width>3183</width>
+        <height>4774</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>929</xmin>
+            <ymin>1240</ymin>
+            <xmax>3052</xmax>
+            <ymax>3172</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>mason-supply-hI_OAjv8ehk-unsplash.jpg</filename>
+    <size>
+        <width>5304</width>
+        <height>5304</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1946</xmin>
+            <ymin>1779</ymin>
+            <xmax>3406</xmax>
+            <ymax>3179</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>khoa-nguyen-Z8sELbYQCvc-unsplash.jpg</filename>
+    <size>
+        <width>4000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1490</xmin>
+            <ymin>1322</ymin>
+            <xmax>2546</xmax>
+            <ymax>2561</ymax>
+        </bndbox>
+    </object>
+</annotation>

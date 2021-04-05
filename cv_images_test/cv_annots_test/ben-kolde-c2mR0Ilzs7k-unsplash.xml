@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>ben-kolde-c2mR0Ilzs7k-unsplash.jpg</filename>
+    <size>
+        <width>3456</width>
+        <height>3456</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>786</xmin>
+            <ymin>1931</ymin>
+            <xmax>1792</xmax>
+            <ymax>2540</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>john-smit-rZFuM-VKrbU-unsplash.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>1311</ymin>
+            <xmax>2003</xmax>
+            <ymax>2096</ymax>
+        </bndbox>
+    </object>
+</annotation>

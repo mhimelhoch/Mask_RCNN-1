@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>miguel-tomas-v2jqvmNuxJE-unsplash.jpg</filename>
+    <size>
+        <width>4670</width>
+        <height>3502</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2033</xmin>
+            <ymin>1546</ymin>
+            <xmax>3016</xmax>
+            <ymax>2637</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>amr-taha-arfL72zV4tA-unsplash.jpg</filename>
+    <size>
+        <width>4000</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2183</xmin>
+            <ymin>3738</ymin>
+            <xmax>3720</xmax>
+            <ymax>5159</ymax>
+        </bndbox>
+    </object>
+</annotation>

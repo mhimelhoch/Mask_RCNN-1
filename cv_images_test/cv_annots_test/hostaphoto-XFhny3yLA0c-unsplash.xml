@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>hostaphoto-XFhny3yLA0c-unsplash.jpg</filename>
+    <size>
+        <width>2748</width>
+        <height>4123</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>652</xmin>
+            <ymin>1043</ymin>
+            <xmax>2123</xmax>
+            <ymax>3160</ymax>
+        </bndbox>
+    </object>
+</annotation>

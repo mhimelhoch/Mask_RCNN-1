@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>liviu-c-ti3P_Bm2zio-unsplash.jpg</filename>
+    <size>
+        <width>5568</width>
+        <height>3712</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1584</xmin>
+            <ymin>309</ymin>
+            <xmax>3786</xmax>
+            <ymax>2242</ymax>
+        </bndbox>
+    </object>
+</annotation>

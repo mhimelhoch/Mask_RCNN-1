@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>brandon-lee-jT5mSPEteVc-unsplash.jpg</filename>
+    <size>
+        <width>5529</width>
+        <height>3686</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3459</xmin>
+            <ymin>986</ymin>
+            <xmax>4648</xmax>
+            <ymax>2441</ymax>
+        </bndbox>
+    </object>
+</annotation>

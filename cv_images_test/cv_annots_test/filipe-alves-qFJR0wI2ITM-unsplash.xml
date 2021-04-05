@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>filipe-alves-qFJR0wI2ITM-unsplash.jpg</filename>
+    <size>
+        <width>6960</width>
+        <height>4640</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2045</xmin>
+            <ymin>1089</ymin>
+            <xmax>4585</xmax>
+            <ymax>4518</ymax>
+        </bndbox>
+    </object>
+</annotation>

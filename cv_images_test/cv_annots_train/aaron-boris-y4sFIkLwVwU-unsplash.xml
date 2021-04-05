@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>aaron-boris-y4sFIkLwVwU-unsplash.jpg</filename>
+    <size>
+        <width>6016</width>
+        <height>4016</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4107</xmin>
+            <ymin>1315</ymin>
+            <xmax>5168</xmax>
+            <ymax>2258</ymax>
+        </bndbox>
+    </object>
+</annotation>

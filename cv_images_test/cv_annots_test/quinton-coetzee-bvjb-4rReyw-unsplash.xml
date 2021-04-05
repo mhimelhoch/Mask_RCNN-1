@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>quinton-coetzee-bvjb-4rReyw-unsplash.jpg</filename>
+    <size>
+        <width>5184</width>
+        <height>3456</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2270</xmin>
+            <ymin>1587</ymin>
+            <xmax>3128</xmax>
+            <ymax>2119</ymax>
+        </bndbox>
+    </object>
+</annotation>

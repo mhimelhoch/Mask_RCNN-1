@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>pepi-stojanovski-EF7BVa9BB2M-unsplash.jpg</filename>
+    <size>
+        <width>4309</width>
+        <height>3078</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3261</xmin>
+            <ymin>1778</ymin>
+            <xmax>4109</xmax>
+            <ymax>2597</ymax>
+        </bndbox>
+    </object>
+</annotation>

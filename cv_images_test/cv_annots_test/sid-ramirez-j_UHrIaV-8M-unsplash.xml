@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>sid-ramirez-j_UHrIaV-8M-unsplash.jpg</filename>
+    <size>
+        <width>5113</width>
+        <height>3048</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2086</xmin>
+            <ymin>984</ymin>
+            <xmax>3016</xmax>
+            <ymax>2123</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>luis-cortes-28jE7Ul1L8I-unsplash.jpg</filename>
+    <size>
+        <width>4992</width>
+        <height>3328</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2643</xmin>
+            <ymin>2414</ymin>
+            <xmax>3531</xmax>
+            <ymax>3162</ymax>
+        </bndbox>
+    </object>
+</annotation>

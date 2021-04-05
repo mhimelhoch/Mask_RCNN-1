@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>insung-yoon-mru38VH7tII-unsplash.jpg</filename>
+    <size>
+        <width>4000</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1120</xmin>
+            <ymin>3071</ymin>
+            <xmax>3351</xmax>
+            <ymax>5280</ymax>
+        </bndbox>
+    </object>
+</annotation>

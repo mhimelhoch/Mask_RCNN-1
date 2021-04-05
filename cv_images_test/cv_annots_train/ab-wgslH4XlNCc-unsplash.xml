@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>ab-wgslH4XlNCc-unsplash.jpg</filename>
+    <size>
+        <width>3852</width>
+        <height>3852</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>100</xmin>
+            <ymin>658</ymin>
+            <xmax>1452</xmax>
+            <ymax>1750</ymax>
+        </bndbox>
+    </object>
+</annotation>

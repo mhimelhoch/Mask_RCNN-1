@@ -1,0 +1,19 @@
+<annotation>
+    <folder>cv_images</folder>
+    <filename>xiong-yan-lwaw_DL09S4-unsplash.jpg</filename>
+    <size>
+        <width>6000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>airpods</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3070</xmin>
+            <ymin>2647</ymin>
+            <xmax>4037</xmax>
+            <ymax>3437</ymax>
+        </bndbox>
+    </object>
+</annotation>
